@@ -19,7 +19,7 @@ function marqueeAnimation() {
       });
       gsap.to(".marquee img", {
         rotate: 0,
-      });``
+      });
     }
   });
 }
